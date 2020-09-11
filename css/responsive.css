@@ -126,6 +126,9 @@
     .portfolio-img::after {
         display: none;
     }
+    .contact-form {
+        width: 100%;
+    }
 }
 /* 539 end  */
 /* 414px start  */
